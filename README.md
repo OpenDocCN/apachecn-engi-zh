@@ -25,7 +25,7 @@
         {color}：显示颜色
         {repo}：ApacheCN 的 Github 仓库名称
 
-    asset/docsify-apachecn-footer.js
+    asset/docsify-flygon-footer.js
     
         {repo}：ApacheCN 的 Github 仓库名称
 -->
@@ -38,7 +38,7 @@
 > 
 > 秩序即死亡，混乱即阶梯。
 
-* [在线阅读](https://{domain}.apachecn.org)
+* [在线阅读](https://{domain}.flygon.net)
 ## 下载
 
 ### Docker
